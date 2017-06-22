@@ -1,3 +1,6 @@
+# Bundle
+public/assets/scripts/bundle*.js
+
 # Logs
 logs
 *.log
